@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Compiler/KernelGen**
 
-- 📝 I regularly write articles on [**micropuma.github.io**](micropuma.github.io)
+- 📝 I regularly write articles on [**micropuma.github.io**](https://github.com/micropuma/micropuma.github.io)
 
 - 📫 How to reach me **leondou@bupt.edu.cn**
 
