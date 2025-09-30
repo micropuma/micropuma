@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Leon Dou</h1>
 <h3 align="left">I am a postgraduate majoring in Computer Science and Technology at BUPT.</h3>
 
-- 🔭 I’m currently exploring ​**​AI Infrastructure**​​, with a special focus on ​​AI Compiler technologies.
+- 🔭 I’m currently exploring ​**​AI Infrastructure**​​, with a special focus on ​​AI Compiler technologies
 
 - 🌱 I’m diving into ​**​Triton**, **IREE**, and other ML compiler toolchains​​
 
