@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exploring ​**​AI Infrastructure**​​, with a special focus on ​​AI Compiler technologies
 
-- 🌱 I’m diving into CUTE, CUTLASS, Triton, and other GPU-centric ML compiler and kernel toolchains​​
+- 🌱 I’m diving into CUTE, CUTLASS, **Triton**, and other GPU-centric ML compiler and kernel toolchains​​
 
 - 👯 I’m looking to collaborate on **Compiler/KernelGen**
 
