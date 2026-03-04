@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Leon Dou</h1>
-<h3 align="left">I am a postgraduate majoring in Computer Science and Technology at BUPT.</h3>
+<h3 align="left">I'm a postgraduate student majoring in Integrated Circuit Engineering at BUPT where I also completed my undergraduate studies in Computer Science and Technology.</h3>
 
 - 🔭 I’m currently exploring **AI Infrastructure**, with a special focus on **AI compilers and LLM inference acceleration**.
 - 🌱 I’m diving into **CUTLASS, Triton, IREE, vLLM**, and other AI compilers or inference engines targeting GPU/NPU hardware.
