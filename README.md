@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Leon Dou</h1>
-<h3 align="left">I'm a postgraduate student majoring in Integrated Circuit Engineering at BUPT where I also completed my undergraduate studies in Computer Science and Technology.</h3>
+<h3 align="left">I'm a postgraduate student majoring in Integrated Circuit Engineering at BUPT.</h3>
 
 - 🔭 I’m currently exploring **AI Infrastructure**, with a special focus on **AI compilers and LLM inference acceleration**.
-- 🌱 I’m diving into **CUTLASS, Triton, IREE, vLLM**, and other AI compilers or inference engines targeting GPU/NPU hardware.
+- 🌱 I’m diving into **CUTLASS, Triton, IREE, vLLM**, and other AI compilers or inference engines.
 - 👯 I’m looking to collaborate on **AI compiler development or hardware-specific LLM inference acceleration**.
 - 📝 I regularly write articles on [**micropuma.github.io**](https://github.com/micropuma/micropuma.github.io)
 - 📫 How to reach me **leondou@bupt.edu.cn**
